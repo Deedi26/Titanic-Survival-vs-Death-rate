@@ -1,1 +1,4 @@
 # Titanic-Survival-vs-Death-rate
+Experience the poignant tale of Titanic's voyage through the lens of data visualization with this compelling project. Delve into the intricate dynamics of survival versus death rates among passengers, examining key factors such as age, passenger class (PClass), and relationships like siblings and spouses. Leveraging the power of Google Sheets and Tableau, this project seamlessly translates raw data into actionable insights, showcasing proficiency in data analytics and visualization tools. Explore the nuanced narratives behind the Titanic tragedy, demonstrating a keen analytical eye and the ability to derive valuable conclusions from complex datasets.
+Elevate your data analytics prowess and captivate potential employers with this insightful tableau project. 
+See my Data Visualization here: https://public.tableau.com/views/TitanicSurvivalDashboard_17085072213600/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_lin
